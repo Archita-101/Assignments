@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My image</title>
+</head>
+<body>
+    <p><h1>My All Time Favourite Picture </h1></p>
+    <img src="download (10).jpeg" alt="No image found" width="80%"><br>
+    <figcaption><h3>"Just a bunch of goofballs making the best memories!"</h3></figcaption>
+    <p>Link To The Image :-</p>
+    <a href="https://in.pinterest.com/pin/654429389634037878/">ImageLink</a>
+    
+</body>
+</html>
